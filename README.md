@@ -1,6 +1,6 @@
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-## Reutilização de Código com Spring Custom Starter
+## Auto-Configuração de Código com Spring Custom Starter
 Este projeto visa exemplificar a utilização do Spring Custom Starter, onde temos um projeto que concentra o código que será utilizado por outros serviços, assim podemos colocar parte da autenticação, configuração de exceção, configuração do log e ..., ou seja, não possui regras de negócios, muito embora todos os serviços tenham de utilizar esses códigos acessórios. 
 
 ### Ambiente Utilizado
